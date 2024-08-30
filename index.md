@@ -11,7 +11,7 @@ title: Home
 <div class="collapsible-container">
   <button class="collapsible">Subsection 1</button>
   <div class="content">
-    <div class="subsection-container">
+    <div class="subsection-horizontal-container">
       <button class="collapsible subsection">Subsection 1.1</button>
       <div class="content">
         <div class="subsection-horizontal">
@@ -35,7 +35,7 @@ title: Home
 
   <button class="collapsible">Subsection 2</button>
   <div class="content">
-    <div class="subsection-container">
+    <div class="subsection-horizontal-container">
       <button class="collapsible subsection">Subsection 2.1</button>
       <div class="content">
         <div class="subsection-horizontal">
