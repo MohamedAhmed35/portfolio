@@ -3,7 +3,7 @@ logo: /assets/img/head.png
 description: "ML engineer"
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-Slate
 
 # Social links
 github_username: yourusername
