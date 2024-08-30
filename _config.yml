@@ -1,0 +1,9 @@
+title: "ML Portfolio"
+description: "A junior machine learning engineer's portfolio"
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+# Social links
+github_username: yourusername
+linkedin_username: yourlinkedinprofile
