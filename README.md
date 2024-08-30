@@ -9,8 +9,8 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 ### Projects
 ## 1. **Mall Customer Segmentation**
 - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and personalized services.
-- **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib
-- **Details** [Mall customer segmentation](https:github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb)
+- **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean
+- **Details**: [Mall customer segmentation](https:github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb)
 
 
 ## Sections
