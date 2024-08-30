@@ -9,7 +9,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 
 # **Projects**
    - ## **Machine Learning Projects**
-      - ### Supervised
+      - ### **<u>Supervised</u>**
          - #### Regression
            
          - #### Classification
@@ -17,7 +17,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
               - **Description**:
               - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
               - **Details**: [Predict Student dropout][Student-dropout]
-           2. **<u>iris classification</u>**
+           2. iris classification
               
                  ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
               
@@ -26,7 +26,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
               - **Details**: [iris classification][iris-classification]
 
 
-      - ### Unsupervised
+      - ### **<u>Unsupervised</u>
          1. Mall Customer Segmentation
             - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and   personalized services.
             - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean, Agglomerative Clustering
