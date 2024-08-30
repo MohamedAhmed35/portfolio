@@ -1,5 +1,5 @@
 /* styles.css */
-button.collapsible {
+.collapsible {
   background-color: #f1f1f1;
   color: #444;
   cursor: pointer;
@@ -12,7 +12,7 @@ button.collapsible {
   margin: 5px 0;
 }
 
-button.collapsible:hover {
+.collapsible:hover {
   background-color: #ddd;
 }
 
