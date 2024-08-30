@@ -58,12 +58,17 @@ body {
 
 .subsection-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 10px;
-  flex-wrap: wrap;
   margin-top: 10px;
 }
 
-.subsection-container .content {
+.subsection-horizontal {
+  display: flex;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.subsection-horizontal .content {
   margin-top: 10px;
 }
