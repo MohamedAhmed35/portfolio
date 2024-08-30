@@ -11,13 +11,12 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
    - ## **Machine Learning Projects**
       - ### Supervised
          - #### Regression
+           
          - #### Classification
            1. Predict Student dropout
               - **Description**:
               - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
               - **Details**: [Predict Student dropout][Student-dropout]
-
-               '''
            2. <u>**iris classification**</u>
               
                  ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
@@ -25,8 +24,8 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
               - **Description**:
               - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
               - **Details**: [iris classification][iris-classification]
-                
-              '''   
+
+
       - ### Unsupervised
          1. Mall Customer Segmentation
             - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and   personalized services.
