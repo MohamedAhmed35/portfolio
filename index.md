@@ -1,9 +1,10 @@
-<link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
-<script src="{{ "/scripts.js" | relative_url }}"></script>
 ---
 layout: default
 title: Home
 ---
+
+<link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
+<script src="{{ "/scripts.js" | relative_url }}"></script>
 
 # Project
 
