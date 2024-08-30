@@ -7,7 +7,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 ## Work Experience
 
 # **Projects**
-## **Machine Learning Projects**
+   - ## **Machine Learning Projects**
 ### Supervised
 #### Regression
 #### Classification
