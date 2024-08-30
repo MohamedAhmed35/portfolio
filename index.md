@@ -11,12 +11,14 @@ title: Home
 <div class="collapsible-container">
   <button class="collapsible">Subsection 1</button>
   <div class="content">
-    <button class="collapsible">Subsection 1.1</button>
-    <div class="content">
-      <p>Details for Subsection 1.1 go here.</p>
-      <button class="collapsible">Subsection 1.1.1</button>
+    <div class="subsection-container">
+      <button class="collapsible subsection">Subsection 1.1</button>
       <div class="content">
-        <p>Details for Subsection 1.1.1 go here.</p>
+        <p>Details for Subsection 1.1 go here.</p>
+        <button class="collapsible subsection">Subsection 1.1.1</button>
+        <div class="content">
+          <p>Details for Subsection 1.1.1 go here.</p>
+        </div>
       </div>
     </div>
     <p>Details for Subsection 1 go here.</p>
@@ -24,12 +26,14 @@ title: Home
 
   <button class="collapsible">Subsection 2</button>
   <div class="content">
-    <button class="collapsible">Subsection 2.1</button>
-    <div class="content">
-      <p>Details for Subsection 2.1 go here.</p>
-      <button class="collapsible">Subsection 2.1.1</button>
+    <div class="subsection-container">
+      <button class="collapsible subsection">Subsection 2.1</button>
       <div class="content">
-        <p>Details for Subsection 2.1.1 go here.</p>
+        <p>Details for Subsection 2.1 go here.</p>
+        <button class="collapsible subsection">Subsection 2.1.1</button>
+        <div class="content">
+          <p>Details for Subsection 2.1.1 go here.</p>
+        </div>
       </div>
     </div>
     <p>Details for Subsection 2 go here.</p>
