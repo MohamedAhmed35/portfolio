@@ -17,7 +17,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
               - **Description**:
               - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
               - **Details**: [Predict Student dropout][Student-dropout]
-           2. <u>**iris classification**</u>
+           2. **<u>iris classification</u>**
               
                  ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
               
