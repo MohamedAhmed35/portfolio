@@ -13,6 +13,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 - **Details**: [Mall Customer Segmentation][mall-segmentation]
 
 '''
+
 [mall-segmentation]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb
 
 
