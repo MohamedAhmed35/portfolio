@@ -2,8 +2,8 @@ title: Mohammed Ahmed Esmail
 logo: /assets/img/headshot.png
 description: "A junior machine learning engineer's portfolio"
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+#show_downloads: true
+theme: jekyll-theme-minima
 
 # Social links
 github_username: yourusername
