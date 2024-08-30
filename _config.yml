@@ -3,7 +3,7 @@ description: "A junior machine learning engineer's portfolio"
 baseurl: ""
 url: "https://yourusername.github.io"
 show_downloads: true
-theme: minima
+theme: jekyll-theme-minimal
 
 # Social links
 github_username: yourusername
