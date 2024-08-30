@@ -18,9 +18,10 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
               - **Details**: [Predict Student dropout][Student-dropout]
 
                '''
-           2. iris classification
+           2. <u>**iris classification**</u>
               
-                 ![image](https://github.com/user-attachments/assets/59e19e9d-54f9-45fc-914e-48f7d4e80c03)
+                 ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
+              
               - **Description**:
               - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
               - **Details**: [iris classification][iris-classification]
