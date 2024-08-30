@@ -1,19 +1,44 @@
 /* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
 .collapsible {
-  background-color: #f1f1f1;
-  color: #444;
+  background-color: #4CAF50;
+  color: white;
   cursor: pointer;
-  padding: 10px;
+  padding: 15px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 16px;
+  font-size: 18px;
+  border-radius: 5px;
   margin: 5px 0;
 }
 
 .collapsible:hover {
-  background-color: #ddd;
+  background-color: #45a049;
+}
+
+.subsection {
+  background-color: #2196F3;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  width: 150px;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.subsection:hover {
+  background-color: #0b7dda;
 }
 
 .content {
@@ -21,8 +46,20 @@
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 .content p {
   margin: 10px 0;
+}
+
+.subsection-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.subsection-container .content {
+  margin-top: 10px;
 }
