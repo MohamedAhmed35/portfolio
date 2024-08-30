@@ -12,7 +12,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean
 - **Details**: [Mall Customer Segmentation][mall-segmentation]
 
-... html
+...
 
 [mall-segmentation]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb
 
