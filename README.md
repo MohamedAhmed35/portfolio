@@ -4,7 +4,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 
 ### Education
 
-#**Experience**
+# **Experience**
 - 
 
 # **Projects**
