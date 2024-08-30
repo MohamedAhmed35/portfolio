@@ -9,7 +9,7 @@ title: Home
 # Project
 
 <div class="collapsible-container">
-  <button class="collapsible">Subsection 1</button>
+  <button class="collapsible">Section 1</button>
   <div class="content">
     <div class="subsection-horizontal-container">
       <button class="collapsible subsection">Subsection 1.1</button>
@@ -30,10 +30,10 @@ title: Home
         <p>Details for Subsection 1.2 go here.</p>
       </div>
     </div>
-    <p>Details for Subsection 1 go here.</p>
+    <p>Details for Section 1 go here.</p>
   </div>
 
-  <button class="collapsible">Subsection 2</button>
+  <button class="collapsible">Section 2</button>
   <div class="content">
     <div class="subsection-horizontal-container">
       <button class="collapsible subsection">Subsection 2.1</button>
@@ -50,6 +50,6 @@ title: Home
         <p>Details for Subsection 2.2 go here.</p>
       </div>
     </div>
-    <p>Details for Subsection 2 go here.</p>
+    <p>Details for Section 2 go here.</p>
   </div>
 </div>
