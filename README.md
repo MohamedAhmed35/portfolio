@@ -8,7 +8,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 
 ### Projects
 ## 1. **Mall Customer Segmentation**
-- **Description**: This project focuses on analyzing and clustering customer data from a mall to uncover distinct customer segments based on their characteristics and spending habits. The dataset includes details on 200 customers, such as gender, age, annual income, and spending score. The main objective is to apply clustering techniques to categorize customers into meaningful groups, which can then be used for targeted marketing and personalized services.
+- **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and personalized services.
 - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib
 - **Details**: [Link to the project repository or detailed page]
 
