@@ -1,4 +1,4 @@
-title: Mohammed Ahmed Esmail
+title: Mohammed Ahmed
 logo: /assets/img/headshot.png
 description: "ML engineer"
 #description: text below image
@@ -7,4 +7,7 @@ theme: jekyll-theme-minimal
 
 # Social links
 github_username: yourusername
-linkedin_username: yourlinkedinprofile
+linkedin_username: [linkedin][LinkedIN-link]
+
+'''
+[LinkedIN-link]: https://www.linkedin.com/in/mu7ammeda7med/
