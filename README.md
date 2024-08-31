@@ -19,7 +19,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
    - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
    - **Details**: [iris classification][iris-classification]
      
-## **Mall Customer Segmentation**
+## **Mall Customer Segmentation (Clustering**
    - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and   personalized services.
    - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean, Agglomerative Clustering
    - **Details**: [Mall Customer Segmentation][mall-segmentation]
