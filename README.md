@@ -8,29 +8,32 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
 - 
 
 # **Projects**
+Predict Student dropout (Classification)
+   - **Description**:
+   - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
+   - **Details**: [Predict Student dropout][Student-dropout]
+iris classification (Classification)
+              
+     ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
+   - **Description**:
+   - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
+   - **Details**: [iris classification][iris-classification]
+Mall Customer Segmentation
+   - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and   personalized services.
+   - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean, Agglomerative Clustering
+   - **Details**: [Mall Customer Segmentation][mall-segmentation]
+```
    - ## **Machine Learning Projects**
       - ### **<u>Supervised</u>**
          - #### Regression
            
          - #### Classification
            1. Predict Student dropout
-              - **Description**:
-              - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
-              - **Details**: [Predict Student dropout][Student-dropout]
-           2. iris classification
               
-                 ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
-              
-              - **Description**:
-              - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
-              - **Details**: [iris classification][iris-classification]
-
+           2. 
       - ### **<u>Unsupervised</u>**
-         1. Mall Customer Segmentation
-            - **Description**: This project analyzes and clusters mall customer data to identify distinct segments based on gender, age, annual income, and spending score. The goal is to use clustering techniques to group customers for targeted marketing and   personalized services.
-            - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean, Agglomerative Clustering
-            - **Details**: [Mall Customer Segmentation][mall-segmentation]
-
+         1. 
+```
    ...
 
 [mall-segmentation]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb
