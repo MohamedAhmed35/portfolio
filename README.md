@@ -2,15 +2,15 @@
 
 Welcome to my machine learning portfolio! This is a showcase of my projects and skills as a junior machine learning engineer with a focus on supervised and unsupervised learning.
 
-# **Education**
+# **<u>Education</u>**
 
-# **Experience**
+# **<u>Experience</u>**
 - 
 
-# **Projects**
+# **<u>Projects</u>**
 ## **Predict Student dropout (Classification)**
-   - **Description**:
-   - **Tech Stack**: Python Scikit-Learn, pandas, numpy, SVM, Random Forst, Logistic Regression, KNN.
+   - **Description**: The student dropout prediction project applies machine learning to predict students' likelihood of dropping out based on factors like application mode and Scholarship holde. It includes data preprocessing, model training, and performance evaluation. The goal is to identify at-risk students and enhance retention strategies.
+   - **Tech Stack**: Python, Scikit-Learn, pandas, seaborn, numpy, SVM, Random Forst, Logistic Regression, KNN.
    - **Details**: [Predict Student dropout][Student-dropout]
      
 ## **iris classification (Classification)**           
@@ -24,22 +24,12 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
    - **Tech Stack**: Python, Scikit-Learn, Pandas, Matplotlib, K-mean, Agglomerative Clustering
    - **Details**: [Mall Customer Segmentation][mall-segmentation]
 
-   - ## **Machine Learning Projects**
-      - ### **<u>Supervised</u>**
-         - #### Regression
-           
-         - #### Classification
-           1. Predict Student dropout
-              
-           2. 
-      - ### **<u>Unsupervised</u>**
-         1. 
-
    ...
 
 [mall-segmentation]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Unsupervised/Mall_customer_segmentation.ipynb
 [Student-dropout]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Supervised/Classification/Predict_student_dropout.ipynb
 [iris-classification]: https://github.com/MohamedAhmed35/portfolio/blob/main/projects/ML%20projects/Supervised/Classification/iris%20classification.ipynb
+
 ## Sections
 - [About Me](about.md)
 - [Projects](projects.md)
