@@ -81,3 +81,13 @@ main {
   flex-wrap: nowrap;
   margin-top: 10px;
 }
+
+@media (max-width: 768px) {
+  .subsection-horizontal-container {
+    flex-direction: column;
+  }
+
+  .subsection-horizontal {
+    flex-direction: column;
+  }
+}
