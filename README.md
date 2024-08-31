@@ -15,7 +15,7 @@ Welcome to my machine learning portfolio! This is a showcase of my projects and 
      
 ## **iris classification (Classification)**           
    ![image](https://github.com/user-attachments/assets/5d36a6e6-b2a2-4d14-a003-3ab9fc07754f)
-   - **Description**:
+   - **Description**: The Iris classification project uses machine learning to categorize iris flowers into three species, Iris-setosa, Iris-versicolor, and Iris-virginica, based on sepal and petal measurements. It involves data preprocessing, model training, and evaluation. The goal is to achieve accurate predictions and assess model performance.
    - **Tech Stack**: Python, Sckit-Learn, pandas, seaborn, numpy, matplotlib, Decision Tree, Random Forest, KNeighbors
    - **Details**: [iris classification][iris-classification]
      
